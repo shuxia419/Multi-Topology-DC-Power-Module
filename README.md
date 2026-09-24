@@ -46,6 +46,18 @@ Type-C/DC 双输入通用电源模块，集成 Buck 降压、Boost 升压、LDO 
 
 ---
 
+## 设计图纸展示
+
+### 系统原理图
+
+<img src="images/Snipaste_2026-09-24_17-11-16.png" width="95%" alt="系统原理图">
+
+### PCB 布局图
+
+<img src="images/Snipaste_2026-09-24_17-10-36.png" width="95%" alt="PCB布局图">
+
+---
+
 ## 测试与验证
 
 使用示波器、电子负载、万用表完成全工况测试，覆盖轻载、半载、满载典型工况：
