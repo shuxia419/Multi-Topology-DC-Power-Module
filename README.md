@@ -68,17 +68,7 @@ Type-C/DC 双输入通用电源模块，集成 Buck 降压、Boost 升压、LDO 
 
 ---
 
-## 文件说明
 
-```
-├── hardware/
-│   ├── schematic/    # 原理图源文件（立创EDA）+ PDF预览版
-│   ├── pcb/          # PCB源文件 + Gerber生产文件 + PDF版图
-│   └── BOM.xlsx      # 完整物料清单
-├── simulation/       # LTspice电路仿真工程文件
-├── docs/             # 芯片数据手册、测试记录文档
-└── images/           # 实物图、测试波形图、原理图截图
-```
 
 ---
 
